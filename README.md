@@ -2,13 +2,13 @@
 
 This Python script automatically monitors your email for payment notifications from Zelle, Venmo, CashApp, and PayPal, then updates an Excel spreadsheet with the payment details for income tracking.
 
-## Files Created
+## Project Structure
 
-- `payment_tracker.py` - Main payment tracking logic
-- `config.py` - Configuration file (update with your email credentials)
-- `run_payment_tracker.py` - Easy-to-use runner script
-- `requirements.txt` - Python dependencies
-- `README.md` - This file
+- `payment_tracker.py` - Core payment tracking functionality
+- `config.py` - Email credentials and settings (you'll need to update this)
+- `run_payment_tracker.py` - Simple script to start the tracker
+- `requirements.txt` - Required Python packages
+- `README.md` - Documentation and setup guide
 
 ## Setup Instructions
 
